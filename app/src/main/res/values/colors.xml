@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Basic colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <!-- Colors for Login Screen -->
-    <color name="primary">#065f46</color> <!-- emerald-800 -->
-    <color name="emerald_600">#059669</color>
+
+    <!-- Primary/Brand colors -->
+    <color name="primary">#059669</color>           <!-- Emerald 600 -->
+    <color name="primary_dark">#065f46</color>     <!-- Emerald 800 -->
+    <color name="primary_light">#10B981</color>    <!-- Emerald 500 -->
+
+    <!-- Background colors -->
+    <color name="background">#059669</color>         <!-- Primary green background -->
+    <color name="surface">#FFFFFFFF</color>         <!-- White surface -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCFFFFFF</color>
+    <color name="text_tertiary">#80FFFFFF</color>
+
+
+    <!-- Functional colors -->
+    <color name="success">#4ADE80</color>           <!-- Green for income -->
+    <color name="error">#F87171</color>             <!-- Red for expenses -->
+    <color name="warning">#F59E0B</color>           <!-- Warning orange -->
+
+    <!-- Category icon colors -->
+    <color name="category_food">#F59E0B</color>
+    <color name="category_transport">#3B82F6</color>
+    <color name="category_shopping">#EC4899</color>
+    <color name="category_entertainment">#8B5CF6</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+
 </resources>

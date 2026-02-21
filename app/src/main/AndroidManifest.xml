@@ -23,7 +23,23 @@
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
+            android:name=".SignupActivity"
+            android:exported="false" />
+        <activity
             android:name=".DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddTransactionActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".MonthlyBudgetActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TransactionListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsActivity"
             android:exported="false" />
     </application>
 
