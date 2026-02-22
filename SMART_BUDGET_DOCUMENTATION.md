@@ -523,4 +523,4 @@ Most importantly, this project proved that with good planning, clear architectur
 
 ---
 
-*Smart Budget - Making personal finance simple and accessible for everyone.* 💰📊
+
