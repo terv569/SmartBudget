@@ -15,9 +15,10 @@
 **Smart Budget** is a personal finance management Android app for tracking income, expenses, and budgets with real-time alerts.
 
 ### Development Team
-- Tervil Moywaywa
-- Michael Lumumba
-- Edwin Vaz Muiruri
+- Tervil Moywaywa SCT213-C002-0012/2023
+- Michael Lumumba SCT213-C002-0097/2022
+- Edwin Vaz Muiruri SCT213-C002-0137/2023
+
 
 ### Version Info
 - **Version:** 1.0.0
